@@ -3,7 +3,7 @@ import ComponentTable from "../Tables/ComponentTable";
 import Admin from "./Admin";
 const Component = () => {
   return (
-    <div className="relative md:ml-64 bg-gradient-to-r from-gray-200 via-gray-400 to-gray-600 opacity-100">
+    <div className="relative md:ml-64 bg-gradient-to-r from-gray-100 to-gray-300 opacity-100">
       <Admin />
       <div className="px-2 md:px-10 mx-auto w-full -m-24">
         <div className="w-full mb-12 px-4">

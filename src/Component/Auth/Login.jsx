@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Login = () => {
   return (
     <div className="h-screen md:flex">
-      <div className="relative overflow-hidden md:flex w-1/2 bg-gradient-to-r from-gray-200 via-gray-400 to-gray-600 i justify-around items-center hidden">
+      <div className="relative overflow-hidden md:flex w-1/2 bg-[radial-gradient(ellipse_at_right,_var(--tw-gradient-stops))] from-sky-400 to-indigo-900 i justify-around items-center hidden">
         <div>
           <h1 className="text-white font-bold text-4xl font-sans">
             Kinetic Glass
